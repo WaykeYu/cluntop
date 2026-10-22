@@ -12,6 +12,10 @@
    "name": "黑料 | 采集",
    "type": 1,
    "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+   "playUrl": "https://www.heiliaozyjx.com/?url=",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
    "ext": "proxy"
   },
   {
