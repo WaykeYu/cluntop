@@ -47,6 +47,13 @@
    "ext": "proxy"
   },
   {
+   "key": "大奶子資源",
+   "name": "大奶子 | 采集",
+   "type": 1,
+   "api": "https://apidanaizi.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
    "key": "jkun資源",
    "name": "jkun | 采集",
    "type": 1,
