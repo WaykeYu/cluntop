@@ -19,6 +19,17 @@
    "ext": "proxy"
   },
   {
+   "key": "杏吧资源站",
+   "name": "杏吧 | 采集",
+   "type": 1,
+   "api": "https://xingba111.com/api.php/provide/vod/?ac=list",
+   "playUrl": "https://xbww888.com/?url=",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "精品98",
    "name": "精品98 | 采集",
    "type": 1,
