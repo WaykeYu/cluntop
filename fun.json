@@ -43,7 +43,7 @@
    "playUrl": "https://jkunjiexi.com/?url=",
    "quickSearch": 1,
    "searchable": 1,
-   "changeable": 1,   
+   "changeable": 1,
    "ext": "proxy"
   },
   {
@@ -63,7 +63,7 @@
    "searchable": 1,
    "changeable": 1,
    "ext": "proxy"
-  },   
+  },
   {
    "key": "杏吧资源站",
    "name": "杏吧 | 采集",
@@ -83,9 +83,9 @@
    "playUrl": "https://jp998.vip/?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
    "ext": "proxy"
-  }, 
+  },
   {
    "key": "souav",
    "name": "souav | 采集",
@@ -94,7 +94,7 @@
    "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
    "ext": "proxy"
   },
   {
@@ -105,18 +105,18 @@
    "playUrl": "https://yutujx.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
    "ext": "proxy"
   },
   {
    "key": "番茄資源",
    "name": "番茄資源 | 采集",
    "type": 1,
-   "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+   "api": "https://fqzy.me/api.php/provide/vod/?ac=list",
    "playUrl": "https://xxb-player.com/player.php?url=",
    "searchable": 1,
    "quickSearch": 1,
-   "filterable": 1
+   "filterable": 1,
    "ext": "proxy"
   },
   {
@@ -124,7 +124,7 @@
    "name": "搜av | 采集",
    "type": 1,
    "api": "https://api.souavzyw.net/api.php/provide/vod/",
-   "ext": "proxy"  
+   "ext": "proxy"
   },
   {
    "key": "py_porn",
@@ -222,13 +222,6 @@
    "name": "91porn[py]",
    "type": 3,
    "api": "./js/ss/91porn.py",
-   "ext": ""
-  },
-  {
-   "key": "py_Youavhub",
-   "name": "Youavhub[py]",
-   "type": 3,
-   "api": "./js/ss/youav.py",
    "ext": ""
   },
   {
@@ -591,7 +584,7 @@
       "loadUrl": "https://xojav.tv/videos/${id}"
      },
      "searchContent": {
-      "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from_videos=${pg:-1}"
+      "loadUrl": "https://xojav.tv/search/${key}/?mode=async&function=get_block&sort_by=most_relevant&from-videos=${pg:-1}"
      }
     }
    }
@@ -711,7 +704,7 @@
    "ext": "proxy"
   },
   {
-   "key": "色猫",
+   "key": "色猫2",
    "name": "色猫2 | 采集",
    "type": 1,
    "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
@@ -906,7 +899,8 @@
    "ext": "proxy"
   },
   {
-   "key": "*抖阴视频",
+   "*抖阴视频": "抖阴视频",
+   "key": "douyin_video",
    "name": "*抖阴 | 采集",
    "type": 1,
    "api": "https://www.888dav.com/api.php/provide/vod/",
@@ -981,7 +975,7 @@
    "name": "奥斯卡 | 采集",
    "type": 1,
    "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-   "playUrl": "https://askvodbf.com/?url=",   
+   "playUrl": "https://askvodbf.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
@@ -1059,7 +1053,7 @@
    "ext": "proxy"
   },
   {
-   "key": "美少女",
+   "key": "美少女2",
    "name": "少女 | 采集",
    "type": 0,
    "api": "https://www.msnii.com/api/xml.php",
