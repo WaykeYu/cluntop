@@ -12,6 +12,9 @@
    "name": "最大 | 采集",
    "type": 1,
    "api": "https://api.zuidapi.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
    "ext": "proxy"
   },
   {
