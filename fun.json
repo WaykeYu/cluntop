@@ -28,6 +28,16 @@
    "filterable": 1
   },
   {
+   "key": "玉兔資源",
+   "name": "玉兔資源 | 采集",
+   "type": 1,
+   "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
+   "playUrl": "https://yutujx.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
    "key": "py_porn",
    "name": "肉视频[py]",
    "type": 3,
