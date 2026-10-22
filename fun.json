@@ -8,6 +8,13 @@
    "ext": "proxy"
   },
   {
+   "key": "最大资源站",
+   "name": "最大 | 采集",
+   "type": 1,
+   "api": "https://api.zuidapi.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
    "key": "精品98",
    "name": "精品98 | 采集",
    "type": 1,
