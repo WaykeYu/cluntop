@@ -26,6 +26,17 @@
    "ext": "proxy"
   },
   {
+   "key": "辣椒",
+   "name": "辣椒 | 采集",
+   "type": 1,
+   "api": "https://apilj.com/api.php/provide/vod/",
+   "playUrl": "",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "奥斯卡",
    "name": "奥斯卡 | 采集",
    "type": 1,
@@ -1107,17 +1118,6 @@
    "name": "奶茶 | 采集",
    "type": 0,
    "api": "https://caiji.naichaapi.com/inc/api.php",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "辣椒",
-   "name": "辣椒 | 采集",
-   "type": 1,
-   "api": "https://apilj.com/api.php/provide/vod/",
-   "playUrl": "",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1,
