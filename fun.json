@@ -8,11 +8,11 @@
    "ext": "proxy"
   },
   {
-   "key": "最大资源站",
-   "name": "最大 | 采集",
+   "key": "極品资源站",
+   "name": "極品 | 采集",
    "type": 1,
-   "api": "https://api.zuidapi.com/api.php/provide/vod/",
-   "playUrl": "https://zuidapi.com/?url=",
+   "api": "https://jipinvip1.com/api.php/provide/vod/?ac=list",
+   "playUrl": "",
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
