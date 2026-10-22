@@ -233,7 +233,17 @@
    "quickSearch": 1,
    "filterable": 1,
    "ext": "proxy"
-  },   
+  },
+  {
+   "key": "番号",
+   "name": "番号 | 采集",
+   "type": 1,
+   "api": "http://fhapi9.com/api.php/provide/vod/",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 0,
+   "ext": "proxy"
+  },
   {
    "key": "py_porn",
    "name": "肉视频[py]",
@@ -1082,16 +1092,6 @@
    "type": 0,
    "api": "https://dadiapi.com/api.php",
    "playUrl": "https://play.dadiapi.com/watch?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 0,
-   "ext": "proxy"
-  },
-  {
-   "key": "番号",
-   "name": "番号 | 采集",
-   "type": 1,
-   "api": "http://fhapi9.com/api.php/provide/vod/",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 0,
