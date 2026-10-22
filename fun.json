@@ -69,10 +69,6 @@
    "name": "杏吧 | 采集",
    "type": 1,
    "api": "https://xingba111.com/api.php/provide/vod/",
-   "playUrl": "https://xbww888.com/?url=",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
    "ext": "proxy"
   },
   {
