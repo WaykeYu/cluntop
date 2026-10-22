@@ -50,11 +50,7 @@
    "key": "極品资源站",
    "name": "極品 | 采集",
    "type": 1,
-   "api": "https://jipinvip1.com/api.php/provide/vod/?ac=list",
-   "playUrl": "https://jipinvip1.com/m3u8/?url=",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
+   "api": "https://jipinvip1.com/api.php/provide/vod/",
    "ext": "proxy"
   },
   {
