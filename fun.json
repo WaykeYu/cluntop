@@ -8,6 +8,13 @@
    "ext": "proxy"
   },
   {
+   "key": "豆豆资源站",
+   "name": "豆豆 | 采集",
+   "type": 1,
+   "api": "https://api.douapi.cc/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
    "key": "黑料资源站",
    "name": "黑料 | 采集",
    "type": 1,
