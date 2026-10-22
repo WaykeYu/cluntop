@@ -19,10 +19,10 @@
    "ext": "proxy"
   },
   {
-   "key": "免費资源站",
-   "name": "免費 | 采集",
+   "key": "火速资源站",
+   "name": "火速 | 采集",
    "type": 1,
-   "api": "https://yuanlib.com/api.php/provide/vod/?ac=list",
+   "api": "https://api.huosuapi.cc/api.php/provide/vod/?ac=list",
    "playUrl": "",
    "quickSearch": 1,
    "searchable": 1,
