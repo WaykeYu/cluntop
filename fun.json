@@ -48,6 +48,17 @@
    "ext": "proxy"
   },
   {
+   "key": "115資源",
+   "name": "115 | 采集",
+   "type": 1,
+   "api": "https://155api.com/api.php/provide/vod/",
+   "playUrl": "https://www.155jx.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "奥斯卡",
    "name": "奥斯卡 | 采集",
    "type": 1,
