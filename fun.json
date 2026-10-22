@@ -625,7 +625,7 @@
    "key": "色猫",
    "name": "色猫 | 采集",
    "type": 1,
-   "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+   "api": "https://caiji.semaozy.net/inc/api.php",
    "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
    "quickSearch": 1,
    "searchable": 1,
@@ -636,7 +636,11 @@
    "key": "色猫",
    "name": "色猫2 | 采集",
    "type": 1,
-   "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+   "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+   "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
    "ext": "proxy"
   },
   {
