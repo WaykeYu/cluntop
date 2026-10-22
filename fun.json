@@ -19,6 +19,17 @@
    "ext": "proxy"
   },
   {
+   "key": "奥斯卡",
+   "name": "奥斯卡 | 采集",
+   "type": 1,
+   "api": "https://aosikazy1.com/api.php/provide/vod/",
+   "playUrl": "https://aojiexi.com/play.html?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "黃色倉庫",
    "name": "黃色 | 采集",
    "type": 1,
@@ -994,17 +1005,6 @@
    "changeable": 1,
    "filterable": 0,
    "timeout": 60
-  },
-  {
-   "key": "奥斯卡",
-   "name": "奥斯卡 | 采集",
-   "type": 1,
-   "api": "https://aosikazy.com/api.php/provide/vod/?ac=list",
-   "playUrl": "https://askvodbf.com/?url=",
-   "searchable": 1,
-   "quickSearch": 1,
-   "filterable": 1,
-   "ext": "proxy"
   },
   {
    "key": "白嫖",
