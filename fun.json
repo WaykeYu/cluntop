@@ -8,6 +8,13 @@
    "ext": "proxy"
   },
   {
+   "key": "黑料资源站",
+   "name": "黑料 | 采集",
+   "type": 1,
+   "api": "https://www.heiliaozyapi.com/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
    "key": "極品资源站",
    "name": "極品 | 采集",
    "type": 1,
@@ -66,6 +73,16 @@
    "type": 1,
    "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
    "playUrl": "https://yutujx.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1
+  },
+  {
+   "key": "番茄資源",
+   "name": "番茄資源 | 采集",
+   "type": 1,
+   "api": "https://fqzy.me//api.php/provide/vod/?ac=list",
+   "playUrl": "https://xxb-player.com/player.php?url=",
    "searchable": 1,
    "quickSearch": 1,
    "filterable": 1
