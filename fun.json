@@ -8,6 +8,13 @@
    "ext": "proxy"
   },
   {
+   "key": "精品98",
+   "name": "精品98 | 采集",
+   "type": 1,
+   "api": "https://jp98.vip/api.php/provide/vod/",
+   "ext": "proxy"
+  }, 
+  {
    "key": "souav",
    "name": "souav | 采集",
    "type": 1,
