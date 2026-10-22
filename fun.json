@@ -40,6 +40,13 @@
    "ext": "proxy"
   },
   {
+   "key": "桃花資源",
+   "name": "桃花 | 采集",
+   "type": 1,
+   "api": "https://thzy1.me/api.php/provide/vod/",
+   "ext": "proxy"
+  },
+  {
    "key": "jkun資源",
    "name": "jkun | 采集",
    "type": 1,
