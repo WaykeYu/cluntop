@@ -37,6 +37,17 @@
    "ext": "proxy"
   },
   {
+   "key": "森林資源",
+   "name": "森林 | 采集",
+   "type": 1,
+   "api": "https://slapibf.com/api.php/provide/vod/",
+   "playUrl": "https://slslplay.com/?url=",
+   "searchable": 1,
+   "quickSearch": 1,
+   "filterable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "奥斯卡",
    "name": "奥斯卡 | 采集",
    "type": 1,
