@@ -59,6 +59,16 @@
    "ext": "proxy"
   },
   {
+   "key": "乐播",
+   "name": "乐播 | 采集",
+   "type": 1,
+   "api": "https://lbapi9.com/api.php/provide/vod/",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "115資源",
    "name": "115 | 采集",
    "type": 1,
@@ -1168,16 +1178,6 @@
    "name": "鸡坤 | 采集",
    "type": 1,
    "api": "https://jkunzyapi.com/api.php/provide/vod/",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "乐播",
-   "name": "乐播 | 采集",
-   "type": 1,
-   "api": "https://lbapi9.com/api.php/provide/vod/",
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
