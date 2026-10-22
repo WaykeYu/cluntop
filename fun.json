@@ -48,6 +48,17 @@
    "ext": "proxy"
   },
   {
+   "key": "色猫",
+   "name": "色猫 | 采集",
+   "type": 1,
+   "api": "https://api.souavzyw.net/api.php/provide/vod/",
+   "playUrl": "https://jiexi.souavzyw.top/m3u8/?url=",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
+   "ext": "proxy"
+  },
+  {
    "key": "115資源",
    "name": "115 | 采集",
    "type": 1,
@@ -766,28 +777,6 @@
    "name": "AIvin | 采集",
    "type": 0,
    "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-   "ext": "proxy"
-  },
-  {
-   "key": "色猫",
-   "name": "色猫 | 采集",
-   "type": 1,
-   "api": "https://caiji.semaozy.net/inc/api.php",
-   "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
-   "ext": "proxy"
-  },
-  {
-   "key": "色猫2",
-   "name": "色猫2 | 采集",
-   "type": 1,
-   "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
-   "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
-   "quickSearch": 1,
-   "searchable": 1,
-   "changeable": 1,
    "ext": "proxy"
   },
   {
