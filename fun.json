@@ -626,6 +626,10 @@
    "name": "色猫 | 采集",
    "type": 1,
    "api": "https://caiji.semaozy.net/inc/apijson_vod.php",
+   "playUrl": "https://jiexi.semaozy.cc/m3u8/?url=",
+   "quickSearch": 1,
+   "searchable": 1,
+   "changeable": 1,
    "ext": "proxy"
   },
   {
