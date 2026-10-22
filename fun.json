@@ -94,7 +94,7 @@
    "key": "奥斯卡",
    "name": "奥斯卡 | 采集",
    "type": 1,
-   "api": "https://aosikazy.com/api.php/provide/vod/",
+   "api": "https://aosikazy1.com/index.php/vod/",
    "playUrl": "https://askvodbf.com/?url=",
    "searchable": 1,
    "quickSearch": 1,
