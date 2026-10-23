@@ -760,9 +760,11 @@
    "name": "最大 | 采集",
    "type": 1,
    "api": "https://api.zuidapi.com/api.php/provide/vod/from/zuidam3u8/",
+   "playUrl": "https://jx.zdplay.cc/m3u8Player/?url=",
    "quickSearch": 1,
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "ext": "proxy"
   },
   {
    "key": "天涯资源",
@@ -778,9 +780,11 @@
    "name": "鸭鸭 | 采集",
    "type": 1,
    "api": "https://cj.yayazy.net/api.php/provide/vod/",
+   "playUrl": "https://jx.yayazy.cc/m3u8/?url=",
    "quickSearch": 1,
    "searchable": 1,
-   "changeable": 1
+   "changeable": 1,
+   "ext": "proxy"
   },
   {
    "key": "爱奇艺资源",
