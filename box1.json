@@ -1,5 +1,5 @@
 {
-  "site:[
+ "sites":[
   {
    "key": "360",
    "name": "360 | 采集",
@@ -294,3 +294,5 @@
    "changeable": 1,
    "ext": "proxy"
   }
+ ]
+}
