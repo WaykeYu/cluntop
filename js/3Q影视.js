@@ -3,13 +3,13 @@
  * 作者：deepseek
  * 版本：1.0
  * 最后更新：2025-12-17
- * 发布页 https://qqqys.com
+ * 发布页 http://s3q.net/
  * 
  * @config
 //  * debug: true
  */
 
-const baseUrl = 'https://qqqys.com';
+const baseUrl = 'http://s3q.net/';
 
 
 
