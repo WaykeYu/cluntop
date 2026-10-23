@@ -1,5 +1,6 @@
 {
- "sites":[
+ "spider": "",
+ "sites": [
   {
    "key": "360",
    "name": "360 | 采集",
