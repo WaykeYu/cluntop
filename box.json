@@ -822,22 +822,18 @@
    "name": "快车 | 采集",
    "type": 1,
    "api": "https://caiji.kuaichezy.org/api.php/provide/vod/",
-   "playUrl": "https://jiexi.kuaichezy.info/m3u8/?url=",
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
-   "ext": "proxy"
   },
   {
    "key": "豪华资源",
    "name": "豪华 | 采集",
    "type": 1,
    "api": "https://hhzyapi.com/api.php/provide/vod/",
-   "playUrl": "https://hhzyjiexi.com/play/?url=",
    "quickSearch": 1,
    "searchable": 1,
    "changeable": 1,
-   "ext": "proxy"
   },
   {
    "key": "电影天堂资源",
