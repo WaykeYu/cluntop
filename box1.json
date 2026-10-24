@@ -1,5 +1,10 @@
 {
-  "spider": "",
+  "spider": "./jar/xs.jar",
+  "wallpaper": "./img/0.jpg",
+  "disabled_wallpaper": "./img/0.jpg",
+  "logo": "./img/pg.gif",
+  "warningText": "1",
+  "danmaku": "https://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
       "key": "360",
