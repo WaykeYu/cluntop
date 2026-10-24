@@ -11,6 +11,7 @@
       "name": "360 | 采集",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod/",
+      "quickSearch": 1,
       "searchable": 1,
       "changeable": 1
     },
@@ -32,7 +33,7 @@
       "name": "索尼 | 采集",
       "type": 1,
       "api": "https://suoniapi.com/api.php/provide/vod/",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "changeable": 1
     },
@@ -41,7 +42,7 @@
       "name": "量子 | 采集",
       "type": 1,
       "api": "https://cj.lziapi.com/api.php/provide/vod/",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "changeable": 1
     },
@@ -59,7 +60,7 @@
       "name": "无尽 | 采集",
       "type": 1,
       "api": "https://api.wujinapi.net/api.php/provide/vod/",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "changeable": 1
     },
@@ -68,7 +69,7 @@
       "name": "金鹰 | 采集",
       "type": 1,
       "api": "https://jyzyapi.com/api.php/provide/vod/",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "changeable": 1
     },
@@ -77,7 +78,7 @@
       "name": "新浪 | 采集",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
-      "quickSearch": 1,
+      "quickSearch": 0,
       "searchable": 1,
       "changeable": 1
     },
